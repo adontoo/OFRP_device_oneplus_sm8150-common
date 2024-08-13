@@ -3,5 +3,6 @@
     "remote": "github",
     "repository": "nebrassy/android_kernel_oneplus_sm8150",
     "target_path": "kernel/oneplus/sm8150"
+    "branch": "android-11"
   }
 ]
